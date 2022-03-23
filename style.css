@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+#btn_incrementar{
+    cursor: pointer;
+}
+
+#btn_decrementar{
+    cursor: move;
+}
+
+#btn_zerar{
+    cursor: cell;
+}
+
+#contador{
+    padding: 2rem;
+    font-size: 50pt;
+    color: white;
+}
+
+button{
+    padding: 1rem;
+    color: black;
+    background-color: white;
+}
+
+.container{
+    text-align: center;
+}
